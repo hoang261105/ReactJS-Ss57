@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "product_name": "Đồ chơi",
+      "image": "",
+      "price": 50000,
+      "quantity": 12,
+      "created_at": "16/02/2024"
+    },
+    {
+      "id": 4,
+      "product_name": "Gấu bông",
+      "image": "",
+      "price": 100000,
+      "quantity": 4,
+      "created_at": "11/06/2024"
+    },
+    {
+      "id": 5,
+      "product_name": "Thịt bò",
+      "image": "",
+      "price": 123000,
+      "quantity": 10,
+      "created_at": "22/09/2024"
+    },
+    {
+      "id": 1,
+      "product_name": "Sample Product Name",
+      "image": "",
+      "price": 100,
+      "quantity": 10,
+      "created_at": "17/3/2021"
+    }
+  ]
+}
